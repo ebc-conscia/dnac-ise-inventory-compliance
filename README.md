@@ -1,4 +1,4 @@
-# Project name : DNAC ancd ISE Inventory Compliance Check (DIICC)
+# Project name : DNAC and ISE Inventory Compliance Check (DIICC)
 
 # Project summary :
 Connects to a DNAC Instance and an ISE Deployment using API's, fetches and compares the NAD inventory of both, and shows the non-compliant entries, differences are only checked for hostname and cts id. DNAC inventory is treated as source of truth.
@@ -34,6 +34,3 @@ Script is run with below command, it will take a few minutes to complete so be p
 
 # Test
 Tested on Python 3.8.2, but should work on anything 3.6 and above (f strings are used)
-
-# Examples
-The examples directory contains a few scripts that can be used as inspiration for further development of ISE, DNAC tools.

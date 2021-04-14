@@ -3,6 +3,7 @@
 !/*.py
 !/.gitignore
 !/README.md
+!/USECASE.md
 !/requirements.txt
 !/environment.sh
 
