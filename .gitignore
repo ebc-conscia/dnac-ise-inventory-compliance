@@ -1,0 +1,15 @@
+/*
+
+!/*.py
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/environment.sh
+
+!/modules/
+/modules/*
+!/modules/*.py
+
+!/examples/
+/examples/*
+!/examples/*.py

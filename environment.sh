@@ -1,0 +1,10 @@
+export DNA_CENTER_DEBUG=True
+export DNA_CENTER_VERSION=""
+export DNA_CENTER_USERNAME=""
+export DNA_CENTER_PASSWORD=""
+export DNA_CENTER_BASE_URL=""
+export DNA_CENTER_VERIFY=False
+export ISE_PAN=""
+export ISE_MNT=""
+export ISE_ERS_ADMIN_USER=""
+export ISE_ERS_ADMIN_PASSWORD=""
