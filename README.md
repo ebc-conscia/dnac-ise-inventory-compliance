@@ -39,3 +39,6 @@ Tested on Python 3.8.2, but should work on anything 3.6 and above (f strings are
 
 # Components:
 ![components](./components.png)
+
+# Example Output:
+![example](./example_output.png)
