@@ -36,4 +36,4 @@ Script is run with below command, it will take a few minutes to complete so be p
 Tested on Python 3.8.2, but should work on anything 3.6 and above (f strings are used)
 
 # Components:
-![components](./components.jpg)
+![components](./components.png)
