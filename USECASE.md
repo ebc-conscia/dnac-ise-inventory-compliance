@@ -1,6 +1,6 @@
-# Project name: DNAC and ISE Inventory Compliance Check
+# DNAC and ISE Inventory Compliance Check
 
-# Project summary:
+# Summary:
 Connects to a DNAC Instance and an ISE Deployment using API's, fetches and compares the NAD inventory of both, and shows the non-compliant entries, differences are only checked for hostname and cts id. DNAC inventory is treated as source of truth.
 
 # Background:
