@@ -1,8 +1,8 @@
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/ebc-conscia/dnac-ise-inventory-compliance)
 
-# Project name : DNAC and ISE Inventory Compliance Check (DIICC)
+# DNAC and ISE Inventory Compliance Check
 
-# Project summary :
+# Summary:
 Connects to a DNAC Instance and an ISE Deployment using API's, fetches and compares the NAD inventory of both, and shows the non-compliant entries, differences are only checked for hostname and cts id. DNAC inventory is treated as source of truth.
 
 # Background 
